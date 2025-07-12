@@ -22,7 +22,7 @@ I love building impactful software, exploring new technologies, and collaboratin
 - **🎓 Profession:** Student  
 - **🛠️ Main Skills:** Java | Node.js | Express  
 - **🌱 Currently Learning:** React.js  
-- **💡 Interests:** Software Development, Problem Solving, Open Source  
+- **💡 Interests:** Software Development, Problem Solving,  
 - **📫 Reach me:**  
   <a href="https://www.linkedin.com/in/harsha-9130052ba">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
