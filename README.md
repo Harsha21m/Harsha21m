@@ -20,7 +20,7 @@ I love building impactful software, exploring new technologies, and collaboratin
 ## 🚀 About Me
 
 - **🎓 Profession:** Student  
-- **🛠️ Main Skills:** Java | Node.js | Express  
+- **🛠️ Skills:** C | Java | HTML | CSS | Javascript | Node.js | Express  
 - **🌱 Currently Learning:** React.js  
 - **💡 Interests:** Software Development, Problem Solving,  
 - **📫 Coding Profiles:**  
