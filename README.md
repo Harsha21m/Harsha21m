@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Coding Gradient Banner" width="100%" style="max-height:90px;object-fit:cover;" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjU4KfC00lJXQY3Jpcg2tDCO_LFtJRBCdfg&s"
+       alt="Coding Gradient Banner"
+       style="width: 100%; height: 100px; object-fit: cover; display: block;" />
 </p>
+
+
 
 # 👋 Hello, I'm Harsha!
 
