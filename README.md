@@ -8,7 +8,7 @@ I'm passionate about building impactful solutions, learning new tech, and collab
 ## 🚀 About Me
 
 - **Profession:** Student  
-- **Top Skills:** Node.js | Express | React.js  
+- **Top Skills:** Node.js | Express |  
 - **Currently Learning:** React.js  
 - **Passionate About:** Software Development  
 - **How to reach me:**  
