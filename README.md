@@ -44,7 +44,7 @@ I love building impactful software, exploring new technologies, and collaboratin
 ---
 
 ## 📈 GitHub Stats
-![harsha21m's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha21m&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![harsha21m's Top Languages](https://github-readme-stats.vercel.app/api?username=Harsha21m)](https://github.com/anuraghazra/github-readme-stats)
 - ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Harsha21m&theme=radical)
 ---
 
