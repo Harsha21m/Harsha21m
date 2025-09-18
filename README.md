@@ -46,8 +46,7 @@ I love building impactful software, exploring new technologies, and collaboratin
 ## 📈 GitHub Stats
 
 ![Harsha21m's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsha21m&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha21m&layout=compact&hide_title=true&theme=radical)
-
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsha21m&theme=radical)
 ---
 
 ## 🌐 Find Me Around the Web
