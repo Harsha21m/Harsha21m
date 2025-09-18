@@ -44,7 +44,7 @@ I love building impactful software, exploring new technologies, and collaboratin
 ---
 
 ## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsha21m&show_icons=true&theme=radical)
 - ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Harsha21m&theme=radical)
 ---
 
