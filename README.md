@@ -44,8 +44,8 @@ I love building impactful software, exploring new technologies, and collaboratin
 ---
 
 ## 📈 GitHub Stats
-
-- ![GitHub Streak](https://streak-stats.demolab.com?user=Harsha21m&theme=radical)
+![GitHub Contribution Calendar](https://github-contributions-api.jogruber.de/api/v1/svg/Harsha21m)
+![GitHub Streak](https://streak-stats.demolab.com?user=Harsha21m&theme=radical)
 - ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Harsha21m&theme=radical)
 ---
 
